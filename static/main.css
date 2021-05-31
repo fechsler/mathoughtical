@@ -1,0 +1,14 @@
+body {
+	background-color: #2B3856;
+	font-family: "Josefin Sans Light";
+	font-size: 16px;
+	color: white;
+}
+
+#nameheader {
+	font-family: "Josefin Sans Light";
+	font-size: 36px;
+	color: white;
+	pointer-events: none;
+	user-select: none;
+}
