@@ -5,8 +5,16 @@ body {
 	color: white;
 }
 
+#menu {
+	font-family: inherit;
+	font-size: 28px;
+	color: white;
+	pointer-events: none;
+	user-select: none;
+}
+
 #nameheader {
-	font-family: "Josefin Sans Light";
+	font-family: inherit;
 	font-size: 36px;
 	color: white;
 	pointer-events: none;
