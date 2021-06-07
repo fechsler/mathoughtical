@@ -16,12 +16,12 @@ body {
 	align-items: center;
 }
 
-.submenu {
+#submenu {
 	display: grid;
 	grid-template-columns: repeat(2, 100px);
 }
 
-#nameheader {
+#name-header {
 	font-family: inherit;
 	font-size: 36px;
 	color: white;
