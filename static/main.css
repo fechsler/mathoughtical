@@ -9,21 +9,26 @@ body {
 	font-family: inherit;
 	font-size: 28px;
 	color: white;
-	pointer-events: none;
 	user-select: none;
 	display: grid;
-	grid-template-columns: 300px 100px 100px;
+	grid-template-columns: 300px 200px;
 	justify-items: center;
 	align-items: center;
+}
+
+.submenu {
+	display: grid;
+	grid-template-columns: repeat(2, 100px);
 }
 
 #nameheader {
 	font-family: inherit;
 	font-size: 36px;
 	color: white;
-	pointer-events: none;
 	user-select: none;
 	display: grid;
+	grid-template-columns: 300px;
 	justify-items: center;
 	align-items: center;
 }
+
