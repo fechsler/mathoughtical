@@ -18,7 +18,7 @@ body {
 
 #submenu {
 	display: grid;
-	grid-template-columns: repeat(2, 100px);
+	grid-template-columns: repeat(2, 1fr);
 }
 
 #name-header {
@@ -32,3 +32,12 @@ body {
 	align-items: center;
 }
 
+.menu-button {
+	padding: 10px 20px;
+	transition: color 0.25s;
+	cursor: pointer;
+}
+
+.menu-button:hover {
+	color: red;
+}
