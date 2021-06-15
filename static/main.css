@@ -11,14 +11,14 @@ body {
 	color: white;
 	user-select: none;
 	display: grid;
-	grid-template-columns: 300px 200px;
+	grid-template-columns: 300px 500px;
 	justify-items: center;
 	align-items: center;
 }
 
 #submenu {
 	display: grid;
-	grid-template-columns: repeat(2, 1fr);
+	grid-template-columns: repeat(4, 1fr);
 }
 
 #name-header {
