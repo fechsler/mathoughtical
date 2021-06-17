@@ -19,12 +19,13 @@ body {
 #submenu {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
+	color: silver;
 }
 
 #name-header {
 	font-family: inherit;
 	font-size: 36px;
-	color: white;
+	color: #FFD700;
 	user-select: none;
 	display: grid;
 	grid-template-columns: 300px;
@@ -40,5 +41,5 @@ body {
 }
 
 .menu-button:hover {
-	color: #EAC117;
+	color: white; /* #EAC117; */
 }
