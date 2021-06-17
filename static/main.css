@@ -43,3 +43,12 @@ body {
 .menu-button:hover {
 	color: white; /* #EAC117; */
 }
+
+#intro {
+	opacity: 0;
+	transition: opacity 1s;
+}
+
+#intro.fadein {
+	opacity: 1;
+	}
