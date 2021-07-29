@@ -1,7 +1,0 @@
-Current plans include:
-	- Accounts for records and statistics
-	- Leaderboards
-	- Account and game settings
-	- Matchmaking
-	- Modes (racing, battle, etc)
-	

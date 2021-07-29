@@ -1,3 +1,3 @@
 # mathoughtical
 
-### A minimalist website for mental math.
+### A simple front-end website for mental math
