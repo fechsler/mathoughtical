@@ -5,16 +5,15 @@
 		<link rel = "stylesheet" type = "text/css" href = "main.css">
 		<meta charset = "UTF-8">
 	</head>
-	
 	<body>
 	<div id = "container">
 		<div id = "intro">
 		<div id = "menu">
 			<h1 id = "name-header">mathoughtical</h1>
 			<div id  = "submenu">
-				<div id = "about" class = "menu-button">about</div>
-				<div id = "leaderboards" class = "menu-button">leaderboards</div>
-				<div id = "account" class = "menu-button">account</div>
+				<div id = "about" class = "menu-button" onclick = "showpg('about-pg')">about</div>
+				<div id = "leaderboards" class = "menu-button" onclick = "showpg('ldboard-pg')">leaderboards</div>
+				<div id = "account" class = "menu-button" onclick = "showpg('account-pg')">account</div>
 			</div>
 		</div>
 		<div id = "mid">
@@ -32,5 +31,6 @@
 
 	</div>
 	<script src = "../src/js/intro.js"></script>
+	<script src = "../src/js/buttons.js"></script>
 	</body>
 </html>
