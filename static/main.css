@@ -37,6 +37,7 @@ body {
 	grid-template-columns: 300px;
 	justify-items: center;
 	align-items: center;*/
+	cursor: pointer;
 }
 
 .menu-button {
