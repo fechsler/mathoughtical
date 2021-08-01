@@ -16,9 +16,10 @@ body {
 	color: white;
 	user-select: none;
 	display: grid;
-	grid-template-columns: 300px 500px;
-	justify-items: center;
+	grid-template-columns: 230px 400px;
+	/* justify-items: center; */
 	align-items: center;
+	gap: 10px;
 }
 
 #submenu {
@@ -32,10 +33,10 @@ body {
 	font-size: 36px;
 	color: #FFD700;
 	user-select: none;
-	display: grid;
+	/*display: grid;
 	grid-template-columns: 300px;
 	justify-items: center;
-	align-items: center;
+	align-items: center;*/
 }
 
 .menu-button {
