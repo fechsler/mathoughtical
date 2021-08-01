@@ -5,6 +5,11 @@ body {
 	color: white;
 }
 
+#container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
 #menu {
 	font-family: inherit;
 	font-size: 24px;
