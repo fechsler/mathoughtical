@@ -65,3 +65,9 @@ body {
 .page {
 	font-size: 21px;
 }
+
+#problem {
+	display: inherit;
+	justify-items: center;
+	font-size: 28;
+}
