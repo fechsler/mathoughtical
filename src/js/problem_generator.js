@@ -1,4 +1,4 @@
-function generateProblem(problem) {
+function displayProblem(problem) {
 	// Actually display problem to HTML
 	const problemText = document.getElementById("problem");
 	problemText.innerHTML = problem;
