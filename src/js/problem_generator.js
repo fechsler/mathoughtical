@@ -27,7 +27,7 @@ function generateAddProblem(maxDigits = 3) {
 		}
 	}
 	var problem = num1 + " + " + num2 + " = ";
-	document.getElementById("name-header").addEventListener("click", generateProblem(problem));
+	document.getElementById("name-header").addEventListener("click", displayProblem(problem));
 }
 
 // multiplication sign = ×
