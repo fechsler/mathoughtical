@@ -1,7 +1,7 @@
 body {
 	background-color: #2B3856;
-	font-family: "Josefin Sans Light";
-	font-size: 16px;
+	font-family: "IBM Plex Mono Light";
+	font-size: 12px;
 	color: white;
 }
 
@@ -12,7 +12,7 @@ body {
 
 #menu {
 	font-family: inherit;
-	font-size: 24px;
+	font-size: 20px;
 	color: white;
 	user-select: none;
 	display: grid;
@@ -30,7 +30,7 @@ body {
 
 #name-header {
 	font-family: inherit;
-	font-size: 36px;
+	font-size: 30px;
 	color: #FFD700;
 	user-select: none;
 	/*display: grid;
@@ -63,11 +63,11 @@ body {
 	}
 
 .page {
-	font-size: 21px;
+	font-size: 14px;
 }
 
 #problem {
 	display: inherit;
 	justify-items: center;
-	font-size: 28;
+	font-size: 24px;
 }
